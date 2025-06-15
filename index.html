@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Darknet Detectives</title>
+  <link rel="stylesheet" href="style.css" />
+  <link href="https://fonts.googleapis.com/css2?family=Share+Tech+Mono&display=swap" rel="stylesheet">
+</head>
+<body>
+  <audio id="keySound" src="type.mp3" preload="auto"></audio>
+  <div class="overlay"></div>
+
+  <div class="login-screen" id="loginScreen">
+    <img src="Darknet Detectives.png" alt="Darknet Detectives Logo" class="logo" />
+    <h1>Darknet Detectives</h1>
+    <p>Initializing encrypted interface in <span id="countdown">5</span> seconds...</p>
+  </div>
+
+  <div class="terminal hidden" id="terminal">
+    <pre id="log"></pre>
+    <div class="input-line">
+      <span class="prompt">darknet@detectives:~$</span>
+      <input type="text" id="commandInput" autofocus autocomplete="off">
+    </div>
+  </div>
+
+
+  <div class="main-page hidden" id="mainPage">
+    <img src="Darknet Detectives.png" class="main-logo" />
+    <div id="introText" class="intro"></div>
+
+    <h2>Our Members</h2>
+    <div class="team">
+      <div class="member">🕶️ <strong>0xExploit_sunjid</strong><br/>Lead Penetration Tester & Website Exploit Specialist</div>
+      <div class="member">🛡️ <strong>R00t_Yusuf</strong><br/>Information Gathering Master</div>
+      <div class="member">🧠 <strong>R00t_babu</strong><br/>Facebook Specialist & Website Attacker</div>
+    </div>
+
+    <h2>Contact Us</h2>
+<p>📧 <a href="mailto:cyberdarknetdetectives@gmail.com" class="link">cyberdarknetdetectives@gmail.com</a></p>
+<p>📢 Telegram: <a href="https://t.me/darknet_detectives" target="_blank" class="link">@Darknet_Detectives</a></p>
+<p>📢 Github: <a href="https://github.com/Sunjid-Ahmed" target="_blank" class="link">@Sunjid-Ahmed</a></p>
+
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>

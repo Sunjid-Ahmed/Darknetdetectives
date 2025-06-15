@@ -1,0 +1,112 @@
+body {
+  margin: 0;
+  background: black url('c59ad2bd4ad2fbacd04017debc679ddb.gif') repeat;
+  color: #00ff00;
+  font-family: 'Share Tech Mono', monospace;
+  font-size: 16px;
+  overflow-y: auto; /* ✅ ALLOW vertical scrolling */
+}
+
+
+/* Overlay fix: respect hidden class */
+.overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.75);
+  z-index: 1;
+}
+.hidden {
+  display: none !important;
+}
+
+.login-screen,
+.terminal {
+  position: absolute;
+  z-index: 2;
+  padding: 20px;
+  color: #00ffcc;
+  text-align: center;
+  width: 100%;
+}
+.logo {
+  width: 120px;
+  margin-bottom: 20px;
+}
+.prompt {
+  color: #00ff00;
+}
+
+/* Main Page */
+.main-page {
+  color: #00ffcc;
+  text-align: center;
+  padding: 40px;
+  background-color: rgba(0, 0, 0, 0.85); /* 🔧 Improves text visibility */
+  z-index: 2;
+  position: relative;
+  min-height: 100vh;
+}
+.main-logo {
+  width: 150px;
+  margin: 20px auto;
+}
+.team {
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+  flex-wrap: wrap;
+  margin-top: 20px;
+}
+.member {
+  border: 1px solid #00ff00;
+  padding: 15px;
+  border-radius: 10px;
+  width: 220px;
+  background: rgba(0, 0, 0, 0.85);
+  color: #00ffcc;
+  box-shadow: 0 0 10px #00ff00;
+  font-size: 16px;
+  line-height: 1.4;
+  transition: transform 0.3s ease;
+}
+.member:hover {
+  transform: scale(1.05);
+  box-shadow: 0 0 20px #00ff00;
+}
+.intro {
+  margin: 20px auto;
+  max-width: 600px;
+  font-size: 18px;
+  line-height: 1.6;
+  background: rgba(0, 0, 0, 0.7);
+  padding: 20px;
+  border-radius: 10px;
+}
+a.link {
+  display: inline-block;
+  padding: 6px 12px;
+  color: #00ffff;
+  border: 1px solid #00ffff;
+  border-radius: 5px;
+  text-decoration: none;
+  font-weight: bold;
+  transition: all 0.3s ease;
+  text-shadow: 0 0 5px #00ffff;
+}
+
+a.link:hover {
+  color: #000;
+  background-color: #00ffff;
+  box-shadow: 0 0 10px #00ffff;
+  text-shadow: none;
+}
+a.link:hover {
+  color: #000;
+  background-color: #00ffff;
+  box-shadow: 0 0 10px #00ffff;
+  text-shadow: none;
+}
+
