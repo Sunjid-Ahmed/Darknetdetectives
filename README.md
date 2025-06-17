@@ -55,7 +55,7 @@ Darknetdetectives/
 ## 💡 How to Use
 
 1. **Clone this repository**:
- ```bash
+ ```
    git clone https://github.com/Sunjid-Ahmed/Darknetdetectives.git
 ````
 
