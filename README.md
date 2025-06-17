@@ -1,7 +1,6 @@
 # Darknetdetectives
 ![Darknetdetectives Banner](banner.png)
 
-
 ```markdown
 # 🌐 Darknetdetectives - Hacker Team Portfolio Website
 
@@ -12,9 +11,7 @@ Welcome to the official repository of **Darknetdetectives**, a cyber security-dr
 
 **Darknetdetectives** is a sleek, modern portfolio website built for our team to showcase who we are, what we do, and how we contribute to cyber security. This site reflects our vision, members, sectors (Junior/Senior), and ways to collaborate with or join us.
 
-
 ## 🔍 Features
-
 - ⚡ Interactive terminal-style landing page  
 - 🧠 Team introduction with member roles  
 - 🔐 Sections for Junior and Senior hacker divisions  
@@ -31,7 +28,6 @@ Welcome to the official repository of **Darknetdetectives**, a cyber security-dr
 - **Font**: Share Tech Mono  
 - **Deployment**: GitHub Pages  
 
-
 ## 📂 Repository Structure
 
 Darknetdetectives/
@@ -42,8 +38,6 @@ Darknetdetectives/
 │   └── images, sounds, icons
 └── README.md
 
-
----
 ````
 
 ## 💡 How to Use
