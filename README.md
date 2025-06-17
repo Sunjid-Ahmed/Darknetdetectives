@@ -5,7 +5,8 @@
 
 Welcome to the official repository of **Darknetdetectives**, a cyber security-driven hacker team focused on defending digital borders and spreading awareness in the world of ethical hacking and penetration testing.
 
-![Darknetdetectives](Darknetdetectives/Screenshot%202025-06-18%20022756.png)
+![Darknetdetectives](Screenshot%202025-06-18%20022756.png)
+
 
 
 
