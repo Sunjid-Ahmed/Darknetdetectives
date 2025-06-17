@@ -1,6 +1,7 @@
 # Darknetdetectives
 ![Darknetdetectives Banner](banner.png)
 
+
 ```markdown
 # 🌐 Darknetdetectives - Hacker Team Portfolio Website
 
@@ -16,22 +17,22 @@ Welcome to the official repository of **Darknetdetectives**, a cyber security-dr
 
 ## 🔍 Features
 
-- ⚡ Interactive terminal-style landing page
-- 🧠 Team introduction with member roles
-- 🔐 Sections for Junior and Senior hacker divisions
-- 📬 Secure contact section (email, Telegram)
-- 🎯 Responsive and lightweight design
-- 🖥️ Built with performance and style in mind
+- ⚡ Interactive terminal-style landing page  
+- 🧠 Team introduction with member roles  
+- 🔐 Sections for Junior and Senior hacker divisions  
+- 📬 Secure contact section (email, Telegram)  
+- 🎯 Responsive and lightweight design  
+- 🖥️ Built with performance and style in mind  
 
 ---
 
 ## 🛠️ Tech Stack
 
-- **HTML5 / CSS3**
-- **JavaScript (Vanilla)**
-- **Terminal UI Simulations**
-- **Font**: Share Tech Mono
-- **Deployment**: GitHub Pages
+- **HTML5 / CSS3**  
+- **JavaScript (Vanilla)**  
+- **Terminal UI Simulations**  
+- **Font**: Share Tech Mono  
+- **Deployment**: GitHub Pages  
 
 ---
 
@@ -47,9 +48,14 @@ Darknetdetectives/
 │   └── images, sounds, icons
 └── README.md
 
-````## 💡 How to Use
+````
+
+---
+
+## 💡 How to Use
 
 1. **Clone this repository**:
+
    ```bash
    git clone https://github.com/Sunjid-Ahmed/Darknetdetectives.git
 ````
@@ -58,8 +64,7 @@ Darknetdetectives/
    Open `index.html` using any modern web browser.
 
 3. **Deploy via GitHub Pages** *(optional)*:
-
-   * Go to repo Settings → Pages → Deploy from `main` branch → root.
+   Go to repo **Settings → Pages** → Deploy from `main` branch → root.
 
 ---
 
@@ -97,5 +102,5 @@ Powered by passion for ethical hacking and cyber awareness.
 
 ---
 
-Would you like me to create the actual files (`index.html`, `style.css`, etc.) and package them into a ZIP or GitHub repo for you?
+Would you like me to help you add the banner image or create the other project files?
 ```
