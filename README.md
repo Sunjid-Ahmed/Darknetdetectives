@@ -19,7 +19,6 @@ Welcome to the official repository of **Darknetdetectives**, a cyber security-dr
 - 🎯 Responsive and lightweight design  
 - 🖥️ Built with performance and style in mind  
 
-
 ## 🛠️ Tech Stack
 
 - **HTML5 / CSS3**  
