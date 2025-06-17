@@ -47,11 +47,7 @@ Darknetdetectives/
 │   └── images, sounds, icons
 └── README.md
 
-````
-
----
-
-## 💡 How to Use
+````## 💡 How to Use
 
 1. **Clone this repository**:
    ```bash
