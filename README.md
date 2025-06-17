@@ -7,13 +7,11 @@
 
 Welcome to the official repository of **Darknetdetectives**, a cyber security-driven hacker team focused on defending digital borders and spreading awareness in the world of ethical hacking and penetration testing.
 
----
 
 ## 🚀 Project Overview
 
 **Darknetdetectives** is a sleek, modern portfolio website built for our team to showcase who we are, what we do, and how we contribute to cyber security. This site reflects our vision, members, sectors (Junior/Senior), and ways to collaborate with or join us.
 
----
 
 ## 🔍 Features
 
@@ -24,7 +22,6 @@ Welcome to the official repository of **Darknetdetectives**, a cyber security-dr
 - 🎯 Responsive and lightweight design  
 - 🖥️ Built with performance and style in mind  
 
----
 
 ## 🛠️ Tech Stack
 
@@ -34,11 +31,8 @@ Welcome to the official repository of **Darknetdetectives**, a cyber security-dr
 - **Font**: Share Tech Mono  
 - **Deployment**: GitHub Pages  
 
----
 
 ## 📂 Repository Structure
-
-
 
 Darknetdetectives/
 ├── index.html
@@ -71,8 +65,8 @@ Darknetdetectives/
 
 We are always looking for passionate cyber security learners and professionals. If you want to work shoulder-to-shoulder with us:
 
-📩 **Email**: [darknetdetectives@protonmail.com](mailto:darknetdetectives@protonmail.com)
-💬 **Telegram**: [t.me/DarknetDetectives](https://t.me/DarknetDetectives)
+📩 **Email**: [cyberdarknetdetectives@gmail.com](mailto:cyberdarknetdetectives@gmail.com)
+💬 **Telegram**: [t.me/DarknetDetectives](https://t.me/darknet_detectives)
 
 ---
 
@@ -98,6 +92,5 @@ Powered by passion for ethical hacking and cyber awareness.
 > “We work for the security of the country!”
 
 ```
-
 Would you like me to help you add the banner image or create the other project files?
 ```
