@@ -1,12 +1,10 @@
 # Darknetdetectives
+![Darknetdetectives Banner](banner.png)
 
 ```markdown
 # 🌐 Darknetdetectives - Hacker Team Portfolio Website
 
 Welcome to the official repository of **Darknetdetectives**, a cyber security-driven hacker team focused on defending digital borders and spreading awareness in the world of ethical hacking and penetration testing.
-
-![Darknetdetectives Screenshot](banner.png)
-
 
 
 
