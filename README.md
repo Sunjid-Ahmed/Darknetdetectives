@@ -38,7 +38,7 @@ Welcome to the official repository of **Darknetdetectives**, a cyber security-dr
 
 ## 📂 Repository Structure
 
-```
+
 
 Darknetdetectives/
 ├── index.html
@@ -48,15 +48,14 @@ Darknetdetectives/
 │   └── images, sounds, icons
 └── README.md
 
-````
+
 
 ---
 
 ## 💡 How to Use
 
 1. **Clone this repository**:
-
-   ```bash
+ ```bash
    git clone https://github.com/Sunjid-Ahmed/Darknetdetectives.git
 ````
 
