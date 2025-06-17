@@ -99,7 +99,5 @@ Powered by passion for ethical hacking and cyber awareness.
 
 ```
 
----
-
 Would you like me to help you add the banner image or create the other project files?
 ```
