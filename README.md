@@ -5,7 +5,7 @@
 
 Welcome to the official repository of **Darknetdetectives**, a cyber security-driven hacker team focused on defending digital borders and spreading awareness in the world of ethical hacking and penetration testing.
 
-![Darknetdetectives Banner](https://your-image-url.com/banner.png) <!-- Optional banner image -->
+![Darknetdetectives Banner](https://www.kapwing.com/w/iPdGsr83v2) <!-- Optional banner image -->
 
 ---
 
